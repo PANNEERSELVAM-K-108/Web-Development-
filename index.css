@@ -1,0 +1,27 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.header{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 30px;
+
+}
+ul,li{
+    display: inline;
+    
+}
+img{
+    width: 150px;
+    height: fit-content;
+}
+.content{
+    border-color: black;
+    border-width: 1;
+    border-style: solid;
+    width: 150px;
+    display: inline-block;
+}
+
